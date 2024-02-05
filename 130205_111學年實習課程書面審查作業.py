@@ -17,6 +17,12 @@ print(df1.columns)
 df1.head()
 
 
+# In[4]:
+
+
+df1.tail()
+
+
 # In[2]:
 
 
